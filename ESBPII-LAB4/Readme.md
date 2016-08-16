@@ -57,6 +57,9 @@ Installing Ubunto OS
 
 ![](https://github.com/hiranyakpeiris/ESBPII-IT13116002/blob/master/ESBPII-LAB4/43.png)
 ![](https://github.com/hiranyakpeiris/ESBPII-IT13116002/blob/master/ESBPII-LAB4/44.png)
+
+Installing Hanthana OS
+
 ![](https://github.com/hiranyakpeiris/ESBPII-IT13116002/blob/master/ESBPII-LAB4/45.png)
 ![](https://github.com/hiranyakpeiris/ESBPII-IT13116002/blob/master/ESBPII-LAB4/46.png)
 ![](https://github.com/hiranyakpeiris/ESBPII-IT13116002/blob/master/ESBPII-LAB4/47.png)
