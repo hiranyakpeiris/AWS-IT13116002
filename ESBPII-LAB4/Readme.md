@@ -2,7 +2,7 @@ Name - H.K.Peiris
 ID   - IT13116002
 ESBPII - LAB4 - Baremetal Hypervisor
 
-Installation
+VMware Installation
 
 ![](https://github.com/hiranyakpeiris/ESBPII-IT13116002/blob/master/ESBPII-LAB4/01.png)
 ![](https://github.com/hiranyakpeiris/ESBPII-IT13116002/blob/master/ESBPII-LAB4/02.png)
